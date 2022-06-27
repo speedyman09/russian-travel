@@ -1,12 +1,14 @@
 .header__lang-link {
     color: #FFFFFF;
     font-size: 24px;
+    font-weight: 400;
     line-height: 28px;
     margin-right: 18px;
+    margin-bottom: 8px;
 }
 
 .header__lang-link:hover {
-    text-decoration: underline;
+    text-decoration-line: underline;
 }
 
 .header__lang-link:last-child {
