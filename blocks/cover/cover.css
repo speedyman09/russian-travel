@@ -1,0 +1,10 @@
+.cover {
+    margin: 92px 48px 0;
+    height: 740px;
+    background-image: url(../../images/__background.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+
+}
