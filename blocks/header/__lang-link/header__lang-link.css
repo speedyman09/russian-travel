@@ -9,6 +9,7 @@
 
 .header__lang-link:hover {
     text-decoration-line: underline;
+    text-underline-offset: 4px;
 }
 
 .header__lang-link:last-child {
