@@ -1,4 +1,8 @@
 .header__lang-link_active {
     text-decoration: underline;
-    text-underline-offset: 4px;
+}
+
+.header__lang-link_active:hover {
+    color: #AAAAAA;
+    transition: .2s linear;
 }

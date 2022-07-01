@@ -1,9 +1,0 @@
-.header__lang-link_link {
-    text-decoration: none;
-    color: #FFFFFF;
-}
-
-.header__lang-link_link:hover {
-    color: #AAAAAA;
-    transition: .2s linear;
-}

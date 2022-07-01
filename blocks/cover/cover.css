@@ -1,14 +1,13 @@
 .cover {
     margin: 92px 48px 0;
     max-width: 1184px;
-    min-height: 740px;
     background-image: url(../../images/__background.jpg);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center center;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
     position: relative;
+    min-height: 740px;
 }
 
 .cover::before {
@@ -39,6 +38,7 @@
     .cover {
         max-width: 768px;
         min-height: 480px;
+        margin: 90px 0 0;
     }
 }
 
