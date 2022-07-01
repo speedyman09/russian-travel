@@ -7,8 +7,9 @@
     margin: 0 auto;
     max-width: 360px;
     width: 100%;
-    z-index: 2;
+    z-index: 6;
 }
+
 @media screen and (max-width: 767px) {
     .cover__subtitle {
         font-size: 14px;

@@ -5,4 +5,11 @@
     text-decoration-line: underline;
     color: #FFFFFF;
     text-underline-offset: 3px;
+
+
+}
+
+.place__link:hover {
+    color: #AAAAAA;
+    transition: .2s linear;
 }

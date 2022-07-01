@@ -1,5 +1,5 @@
 .place__image {
-   /* max-width: 460px;*/
+    /* max-width: 460px;*/
     width: 460px;
 }
 
@@ -8,11 +8,13 @@
         width: 440px;
     }
 }
+
 @media screen and (max-width: 1023px) {
     .place__image {
         width: 340px;
     }
 }
+
 @media screen and (max-width: 767px) {
     .place__image {
         width: 320px;

@@ -1,0 +1,7 @@
+.cover__title_link {
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
+    width: 100%;
+    z-index: 10;
+}
